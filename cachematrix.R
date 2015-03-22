@@ -68,7 +68,7 @@ cacheSolve <- function(x, ...) {
 ##
 ## console outputs:
 ## getting cached data.
-## [,1] [,2] [,3]
+##      [,1] [,2] [,3]
 ## [1,]  2.0   -1  1.0
 ## [2,]  4.0   -2  1.0
 ## [3,] -1.5    1 -0.5
